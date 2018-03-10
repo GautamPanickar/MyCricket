@@ -7,5 +7,5 @@ Java, Java SWING, Java GUI, MySQL. Coded in NetBEANS IDE.
 
 # Attention
 This is one of the first projects that I had undertaken during  my college days. The code is badly maintained.
-Bu it works! Shall optimize the code soon.
+But it works! Shall optimize the code soon.
 
